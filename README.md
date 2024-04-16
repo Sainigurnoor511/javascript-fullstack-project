@@ -1,1 +1,1 @@
-# javascript-fullstack-project
+# coding-project-template
